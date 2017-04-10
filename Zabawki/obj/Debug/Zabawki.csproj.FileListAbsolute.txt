@@ -1,0 +1,8 @@
+c:\users\piotrek\documents\visual studio 2017\Projects\Zabawki\Zabawki\obj\Debug\Zabawki.csprojResolveAssemblyReference.cache
+c:\users\piotrek\documents\visual studio 2017\Projects\Zabawki\Zabawki\obj\Debug\Zabawki.Properties.Resources.resources
+c:\users\piotrek\documents\visual studio 2017\Projects\Zabawki\Zabawki\obj\Debug\Zabawki.csproj.GenerateResource.Cache
+c:\users\piotrek\documents\visual studio 2017\Projects\Zabawki\Zabawki\bin\Debug\Zabawki.exe.config
+c:\users\piotrek\documents\visual studio 2017\Projects\Zabawki\Zabawki\bin\Debug\Zabawki.exe
+c:\users\piotrek\documents\visual studio 2017\Projects\Zabawki\Zabawki\bin\Debug\Zabawki.pdb
+c:\users\piotrek\documents\visual studio 2017\Projects\Zabawki\Zabawki\obj\Debug\Zabawki.exe
+c:\users\piotrek\documents\visual studio 2017\Projects\Zabawki\Zabawki\obj\Debug\Zabawki.pdb
